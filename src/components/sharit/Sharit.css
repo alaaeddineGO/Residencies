@@ -1,0 +1,30 @@
+.sharit-container{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+.img-sharit{
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    padding: 10px 20px;
+}
+.sharit-container :nth-child(1){
+    width: 147px;
+    background-image: url(../../asets/prologis.png);
+}
+.sharit-container :nth-child(2){
+    width: 221px;
+    background-image: url(../../asets/tower.png);
+}
+.sharit-container :nth-child(3){
+    width: 184px;
+    background-image: url(../../asets/equinix.png);
+}
+.sharit-container :nth-child(4){
+    width: 232px;
+    background-image: url(../../asets/realty.png);
+}

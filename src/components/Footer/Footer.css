@@ -1,0 +1,40 @@
+.Footer-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.Footer-container .side-left-footer{
+    width: 70%;
+    height: auto;
+    flex-direction: column;
+    display: flex;
+    align-items: start;
+}
+.Footer-container .logo-H{
+    width: 142px;
+    height: 51px;
+    background-image: url(../../asets/logo2.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.Footer-container .side-right-footer{
+    display: flex;
+    align-items: start;
+    justify-content: start;
+    flex-direction: column;
+}
+.Footer-container .side-right-footer ul{
+    display: flex;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    justify-content: space-between;
+}
+#dddd {
+    margin: 0px 0px !important;
+}
+.Footer-container .side-right-footer ul li{
+    margin: 0 15px;
+}
+

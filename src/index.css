@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+}
+:root{
+    --clr-white: #ffffff;
+    --clr-orange: #ffa500;
+    --clr-blue: #1f3e72;
+    --clr-primary: #3051d6;
+}
+.orangeText {
+    color: orange;
+    font-size: 1.5rem;
+    font-weight: 600;
+}
+.primaryText {
+    color: #1f3e72;
+    font-weight: 700;
+    font-size: 2rem;
+}
+li{
+    list-style: none;
+    cursor: pointer;
+}

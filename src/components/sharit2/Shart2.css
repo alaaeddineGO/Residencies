@@ -1,0 +1,30 @@
+.container-shrt2{
+    width: 95%;
+    height: 280px;
+    background-color: var(--clr-primary);
+    margin: 80px auto;
+    border: 10px solid rgb(173, 204, 240);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    align-items: center;
+    justify-content: space-between;
+}
+.container-shrt2 h2{
+    color: white;
+    font-size: 35px;
+    font-weight: 700;
+}
+.container-shrt2 p{
+    color: rgb(215, 217, 219);
+}
+.container-shrt2 button{
+    width: 200px;
+    height: 55px;
+    outline: none;
+    border: 1px solid rgb(255, 255, 255); 
+    background-color: rgb(73, 131, 207);
+    border-radius: 10px;
+    color: aliceblue;
+}

@@ -1,0 +1,22 @@
+.OurValue-container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.cader-OurValue{
+    width: 400px;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(../../asets/value.png);
+    border-radius: 200px 200px 0 0;
+    border: 10px solid #808c9b;
+
+}
+.side-right-OurValue{
+    width: 50%;
+}
+.side-right-OurValue p{
+    color: #808c9b;
+}

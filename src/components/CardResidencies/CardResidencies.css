@@ -1,0 +1,11 @@
+.ddd{
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    color: rgb(88, 86, 86);
+}
+.ddd :nth-child(1){
+    color: var(--clr-orange);
+    font-weight: 900;
+    font-size: 25px;
+}

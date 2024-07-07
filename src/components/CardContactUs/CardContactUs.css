@@ -1,0 +1,50 @@
+.CardContactUs-container{
+    width: 280px;
+    height: 150px;
+    border: 1px solid #e2dddd;
+    border-radius: 4px;
+    padding: 15px;
+}
+.CardContactUs-container .head-CardContactUs{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 15px;
+
+}
+.CardContactUs-container .head-CardContactUs .ico-CardContactUs{
+    width: 45px;
+    height: 45px;
+    font-size: 50px;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #f0ecec;
+    border-radius: 5px;
+    margin-right: 20px;
+    padding: 3px;
+    color: var(--clr-primary);
+    margin-bottom: 10px;
+    
+}
+.CardContactUs-container .head-CardContactUs .inf-CardContactUs h4{
+    font-size: 20px;
+    font-weight: 700;
+    color: #151c41;
+}
+.CardContactUs-container .head-CardContactUs .inf-CardContactUs h5{
+    font-size: 15px;
+    color: #6e6a6a;
+}
+.CardContactUs-container button{
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--clr-primary);
+    width: 100%;
+    background-color: #f0ecec;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    height: 45px;
+}
