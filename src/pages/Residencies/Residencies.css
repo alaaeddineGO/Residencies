@@ -27,7 +27,8 @@
     box-shadow: 4px 7px 10px rgb(97, 93, 93);
 }
 .content-Residencies{
-    width: 100%;
+    width: 90%;
+    margin: auto;
     overflow: hidden;
     display: flex;
     align-items: center;
